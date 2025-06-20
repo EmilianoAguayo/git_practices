@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Uriel Everardo Sanchez Rangel
 Luis Alejandro Alcocer Marin
 Hola Mundo
+=======
+Luis Alejandro Alcocer Marin
+Uriel Everardo Sanchez Rangel
+>>>>>>> origin/alcocer-marin
