@@ -1,3 +1,6 @@
 Yael Mora Morita
+<<<<<<< HEAD
 Sergio Lara Hernandez
 Hola Mundo
+=======
+>>>>>>> mora-morita
