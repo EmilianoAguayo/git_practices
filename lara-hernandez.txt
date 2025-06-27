@@ -1,8 +1,4 @@
 Sergio Lara Hernandez
 Yael Mora Morita
-<<<<<<< HEAD
 Hello World
-=======
 Hola Mundo
-
->>>>>>> origin/lara-hernandez
